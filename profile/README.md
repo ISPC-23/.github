@@ -70,7 +70,7 @@
 
 <h2 align="center">🚀 Ciencias de Datos e Inteligencia Artificial</h2>
 
-<p align="center">Analisis y exploración de datos con modelos de IA. 🌐
+<p align="center">Análisis y exploración de datos con modelos de IA. 🌐
 </p>
 
 <h3 align="center">Equipo y repositorios</h3>
